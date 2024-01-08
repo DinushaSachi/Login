@@ -1,0 +1,20 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.6",
+    "expect-playwright": "^0.8.0"
+  },
+  "dependencies": {
+    "in": "^0.19.0",
+    "shell": "^0.5.1",
+    "the": "^1.0.2"
+  }
+}
